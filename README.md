@@ -1,7 +1,8 @@
 # 💫 About Me:
 Welcome to my code playground! I'm a full-stack developer with an unquenchable passion for crafting digital magic ✨. Whether it's front-end wizardry or back-end sorcery, I'm all about weaving lines of code to create awesome applications
 
-![Welcome](https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849641470-JKHB2TRUIY3H0L01ACHS/33ae06d2f4f62bf0710791d257bd302f.gif)
+<img src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849641470-JKHB2TRUIY3H0L01ACHS/33ae06d2f4f62bf0710791d257bd302f.gif" width="300" height="200" />
+
 
 
 
