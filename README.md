@@ -1,7 +1,7 @@
 # 💫 About Me:
 Welcome to my code playground! I'm a full-stack developer with an unquenchable passion for crafting digital magic ✨. Whether it's front-end wizardry or back-end sorcery, I'm all about weaving lines of code to create awesome applications
 
-<img src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849641470-JKHB2TRUIY3H0L01ACHS/33ae06d2f4f62bf0710791d257bd302f.gif" width="400" height="300" />
+<img src="[https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849641470-JKHB2TRUIY3H0L01ACHS/33ae06d2f4f62bf0710791d257bd302f.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fsatoru-gojo-54%2F&psig=AOvVaw0C1qyUsvKvvb6sEYUq3X4A&ust=1700561284494000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKiLi86q0oIDFQAAAAAdAAAAABAY)" width="400" height="300" />
 
 
 
